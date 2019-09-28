@@ -29,7 +29,7 @@
 
 
 ### v0.7
-**This lesson ontroduced me to animating the leds on mirco bit. It displays a face switching from happy to neutral until you press either button A or B. Once it reads the users input, it displays random led pictures. This assignmnet was a tough one for me, so I will be coming back to this quite a bit.
+**This lesson ontroduced me to animating the leds on mirco bit. It displays a face switching from happy to neutral until you press either button A or B. Once it reads the users input, it displays random led pictures. This assignmnet was a tough one for me, so I will be coming back to this quite a bit.**
 * JS file: [Animation](https://github.com/csmit353/Animation.git*)
 
 # Cello-Tuner-Metronome
