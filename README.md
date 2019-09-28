@@ -12,7 +12,7 @@
   
 ### v0.3
 
-**Lesson three focused on variables. If you took a game such as rock, paper, scissors, how could you program micro bit to keep track of your score? This code allows you not to do that, but then tell you how many wins each player has and how many times they tied. Using three variables, "PlayerA," "PlayerB," and "Ties," you can then tell the micro bit to display an A, B, or T on the led screen along with a numerical value with the "shownumber" command.
+**Lesson three focused on variables. If you took a game such as rock, paper, scissors, how could you program micro bit to keep track of your score? This code allows you not to do that, but then tell you how many wins each player has and how many times they tied. Using three variables, "PlayerA," "PlayerB," and "Ties," you can then tell the micro bit to display an A, B, or T on the led screen along with a numerical value with the "shownumber" command.**
 * JS file: [Scorekeeper](https://github.com/csmit353/ScoreKeeper.git)
 
 # Cello-Tuner-Metronome
