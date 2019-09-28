@@ -13,12 +13,17 @@
 ### v0.3
 
 **Lesson three focused on variables. If you took a game such as rock, paper, scissors, how could you program micro bit to keep track of your score? This code allows you not to do that, but then tell you how many wins each player has and how many times they tied. Using three variables, "PlayerA," "PlayerB," and "Ties," you can then tell the micro bit to display an A, B, or T on the led screen along with a numerical value with the "shownumber" command.**
-* JS file: [Scorekeeper](https://github.com/csmit353/ScoreKeeper.git)
+* JS file: [Scorekeeper](https://github.com/csmit353/ScoreKeeper.git*)
 
 ### v0.4
 
 **The next lesson was about coding the micro bit to play rock paper scissors with the user. You can do this by using logic to tell the microbit to pick a random led picture representing rock, paper, or scissors. This coding also includes a score counter for the user that they can display at any time by hitting the "A" button.**
-* JS file: [Rock, Paper, Scissors](https://github.com/csmit353/RockPaperScissors-Counter.git**)
+* JS file: [Rock, Paper, Scissors](https://github.com/csmit353/RockPaperScissors-Counter.git*)
+
+### v0.5 
+
+**I was always curious how the "game" section of MakeCode worked. Using loops and game logic, this lesson taught me how to get a sprite to travel across the led screen of the micro bit. It also gave an introduction to the music programming which I focused on for my midterm and final project. 
+* JS file: [Loops Demo](https://github.com/csmit353/Loops-Demos.git*)
 
 # Cello-Tuner-Metronome
 
