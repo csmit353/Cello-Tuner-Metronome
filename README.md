@@ -22,8 +22,15 @@
 
 ### v0.5 
 
-**I was always curious how the "game" section of MakeCode worked. Using loops and game logic, this lesson taught me how to get a sprite to travel across the led screen of the micro bit. It also gave an introduction to the music programming which I focused on for my midterm and final project. 
+**I was always curious how the "game" section of MakeCode worked. Using loops and game logic, this lesson taught me how to get a sprite to travel across the led screen of the micro bit. It also gave an introduction to the music programming which I focused on for my midterm and final project.** 
 * JS file: [Loops Demo](https://github.com/csmit353/Loops-Demos.git*)
+
+### v0.6
+
+
+### v0.7
+**This lesson ontroduced me to animating the leds on mirco bit. It displays a face switching from happy to neutral until you press either button A or B. Once it reads the users input, it displays random led pictures. This assignmnet was a tough one for me, so I will be coming back to this quite a bit.
+* JS file: [Animation](
 
 # Cello-Tuner-Metronome
 
