@@ -18,7 +18,7 @@
 ### v0.4
 
 **The next lesson was about coding the micro bit to play rock paper scissors with the user. You can do this by using logic to tell the microbit to pick a random led picture representing rock, paper, or scissors. This coding also includes a score counter for the user that they can display at any time by hitting the "A" button.**
-* JS file: [Rock, Paper, Scissors](
+* JS file: [Rock, Paper, Scissors](https://github.com/csmit353/RockPaperScissors-Counter.git**)
 
 # Cello-Tuner-Metronome
 
