@@ -10,6 +10,30 @@
     basic.pause(5000)
 })**
 
+### v0.2
+
+**This assignment took the previous coding and gave it inputs. Instead of the faces appearing forever, the micro bit now displys them after either button "A" or "B" is pressed.
+* JS file: input.onButtonPressed(Button.A, function () {
+    basic.showLeds(`
+        . # . # .
+        . . . . .
+        # . . . #
+        . # # # .
+        . . . . .
+        `)
+})
+input.onButtonPressed(Button.B, function () {
+    basic.showLeds(`
+        . # . # .
+        . . . . .
+        . # # # .
+        # . . . #
+        . . . . .
+        `)
+})
+basic.clearScreen()**
+
+
 # Cello-Tuner-Metronome
 
 #### Goal
