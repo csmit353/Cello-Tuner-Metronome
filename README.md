@@ -1,3 +1,15 @@
+## Tags
+
+### v0.1
+
+**The first happy/sad face assignment has to do with displaying two faces forever. The two faaces will appear on the led screen on 5000ms intervals. 
+JS file: basic.forever(function () {
+    basic.showIcon(IconNames.Happy)
+    basic.pause(5000)
+    basic.showIcon(IconNames.Sad)
+    basic.pause(5000)
+})**
+
 # Cello-Tuner-Metronome
 
 #### Goal
