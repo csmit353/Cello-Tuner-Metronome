@@ -7,27 +7,9 @@
 
 ### v0.2
 
-**This assignment took the previous coding and gave it inputs. Instead of the faces appearing forever, the micro bit now displys them after either button "A" or "B" is pressed.
-* JS file: input.onButtonPressed(Button.A, function () {
-    basic.showLeds(`
-        . # . # .
-        . . . . .
-        # . . . #
-        . # # # .
-        . . . . .
-        `)
-})
-input.onButtonPressed(Button.B, function () {
-    basic.showLeds(`
-        . # . # .
-        . . . . .
-        . # # # .
-        # . . . #
-        . . . . .
-        `)
-})
-basic.clearScreen()**
-
+**This assignment took the previous coding and gave it inputs. Instead of the faces appearing forever, the micro bit now displys them after either button "A" or "B" is pressed.**
+* JS file: [HappyFace/SadFace](https://github.com/csmit353/Happy-Sad-Face.git*)
+  
 ### v0.3
 
 **Lesson three focused on variables. If you took a game such as rock, paper, scissors, how could you program micro bit to keep track of your score? This code allows you not to do that, but then tell you how many wins each player has and how many times they tied. Using three variables, "PlayerA," "PlayerB," and "Ties," you can then tell the micro bit to display an A, B, or T on the led screen along with a numerical value with the "shownumber" command.
