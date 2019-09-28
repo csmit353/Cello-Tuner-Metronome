@@ -33,6 +33,74 @@ input.onButtonPressed(Button.B, function () {
 })
 basic.clearScreen()**
 
+### v0.3
+
+**Lesson three focused on variables. If you took a game such as rock, paper, scissors, how could you program micro bit to keep track of your score? This code allows you not to do that, but then tell you how many wins each player has and how many times they tied. Using three variables, "PlayerA," "PlayerB," and "Ties," you can then tell the micro bit to display an A, B, or T on the led screen along with a numerical value with the "shownumber" command.
+* JS file: input.onGesture(Gesture.Shake, function () {
+    basic.showString("Wins:")
+    basic.showLeds(`
+        . # # # .
+        . # . # .
+        . # # # .
+        . # . # .
+        . # . # .
+        `)
+    basic.showNumber(PlayerAWins)
+    basic.pause(1000)
+    basic.showLeds(`
+        . # # . .
+        . # . # .
+        . # # # .
+        . # . # .
+        . # # . .
+        `)
+    basic.showNumber(PlayerBWins)
+    basic.pause(1000)
+    basic.showString("Ties:")
+    basic.showNumber(PlayersTie)
+    basic.pause(1000)
+    basic.clearScreen()
+})
+input.onButtonPressed(Button.A, function () {
+    PlayerAWins += 1
+    basic.showLeds(`
+        . # # # .
+        . # . # .
+        . # # # .
+        . # . # .
+        . # . # .
+        `)
+    basic.clearScreen()
+})
+input.onButtonPressed(Button.AB, function () {
+    PlayersTie += 1
+    basic.showLeds(`
+        . # # # .
+        . . # . .
+        . . # . .
+        . . # . .
+        . . # . .
+        `)
+    basic.clearScreen()
+})
+input.onButtonPressed(Button.B, function () {
+    PlayerBWins += 1
+    basic.showLeds(`
+        . # # . .
+        . # . # .
+        . # # # .
+        . # . # .
+        . # # . .
+        `)
+    basic.clearScreen()
+})
+let PlayerBWins = 0
+let PlayerAWins = 0
+let PlayersTie = 0
+PlayersTie = 0
+PlayerAWins = 0
+PlayerBWins = 0
+
 
 # Cello-Tuner-Metronome
 
