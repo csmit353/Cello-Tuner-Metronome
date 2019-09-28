@@ -2,8 +2,8 @@
 
 ### v0.1
 
-**The first happy/sad face assignment has to do with displaying two faces forever. The two faces will appear on the led screen on 5000ms intervals. 
-* JS file: [HappySadFace] (https://github.com/csmit353/Project-Step-1.git**)
+**The first happy/sad face assignment has to do with displaying two faces forever. The two faces will appear on the led screen on 5000ms intervals.** 
+* JS file: [HappySadFace](https://github.com/csmit353/Project-Step-1.git*)
 
 ### v0.2
 
