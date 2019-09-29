@@ -33,8 +33,16 @@
 * JS file: [Animation](https://github.com/csmit353/Animation.git*)
 
 ### v0.8
+
 **Boolean coding is the next focus. This file is a program for the micro bit using a variable for two coin flips and two scores. Different inputs will output random led displays cordinating to a coin flip. The program then adds a point to each "player" to take this from a simple coin flip, to more of a game.**
 * JS File:[Double Coin Flip](https://github.com/csmit353/X2-Coin-Flip-.git*)
+
+### v0.9
+
+**This is such a helpful way to understand binary code better. This program allows you to input any binary code and then check to see the decimal equivilent whenever you want. I struggle with understanding binary and will definetly be using this.**
+* JS File: [Binary Transmogrifier](https://github.com/csmit353/Binary-Transmogrifier.git*)
+
+### v0.10
 
 
 # Midterm/Final Project
