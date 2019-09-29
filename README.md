@@ -43,6 +43,8 @@
 * JS File: [Binary Transmogrifier](https://github.com/csmit353/Binary-Transmogrifier.git*)
 
 ### v0.10
+**Lesson 10 showed how to code morse code and marco polo. It works by sending radio signals via button inputs that a second micro bit will receive. The user can also see what is coming in, "marco," "polo," or either morse code signal, on the led screen.**
+* JS File: [Morse Code/Marco Polo](https://github.com/csmit353/Marco-Polo-Morse-Code.git*)
 
 
 # Midterm/Final Project
