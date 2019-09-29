@@ -27,8 +27,8 @@
 
 ### v0.6
 
-**For the mid-term I began exploring the music abilities of micro bit. I have four inputs assigned to four different notes to play. I also tried assigning the same notes to pins in an attempt to create a midi device. I also began exploring tuning ideas during this assignment. 
-
+**For the mid-term I began exploring the music abilities of micro bit. I have four inputs assigned to four different notes to play. I also tried assigning the same notes to pins in an attempt to create a midi device. I also began exploring tuning ideas during this assignment.**
+* JS File: [Midterm](https://github.com/csmit353/MIDI-Midterm.git*)
 
 ### v0.7
 
