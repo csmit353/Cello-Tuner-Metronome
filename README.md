@@ -29,6 +29,7 @@
 
 
 ### v0.7
+
 **This lesson introduced me to animating the leds on mirco bit. It displays a face switching from happy to neutral until you press either button A or B. Once it reads the users input, it displays random led pictures. This assignmnet was a tough one for me, so I will be coming back to this quite a bit.**
 * JS file: [Animation](https://github.com/csmit353/Animation.git*)
 
@@ -43,8 +44,18 @@
 * JS File: [Binary Transmogrifier](https://github.com/csmit353/Binary-Transmogrifier.git*)
 
 ### v0.10
+
 **Lesson 10 showed how to code morse code and marco polo. It works by sending radio signals via button inputs that a second micro bit will receive. The user can also see what is coming in, "marco," "polo," or either morse code signal, on the led screen.**
 * JS File: [Morse Code/Marco Polo](https://github.com/csmit353/Marco-Polo-Morse-Code.git*)
+
+### v0.11
+
+**Program micro bit to play headband charades (a.k.a. Heads Up) with this code. Give the micro bit a list of words to display and have it display a random one on the led screen using "array" code. I really like how you can use tilt inputs to mimic the smartphone app.**
+* JS File: [Heads Up](https://github.com/csmit353/Heads-Up.git*)
+
+### v.012
+**This program is described in length below. This is a cello tuner and metronome. It plays the desired tone to tune a cello and plays two different tempos to get you in time to read an allegro or adagio music score.
+* JS File: [Cello Tuner/Metronome](
 
 
 # Midterm/Final Project
